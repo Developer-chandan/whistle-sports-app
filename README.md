@@ -8,4 +8,4 @@
 - Load Data without Reload
 - 404 Error page
 
-#### Live Website: [Whistle Sports Club](https://wistle-sports-app.netlify.com/)
+#### Live Website: [Whistle Sports Club](https://whistle-sports-app.netlify.app/home)
