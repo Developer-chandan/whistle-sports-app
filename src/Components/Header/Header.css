@@ -1,0 +1,23 @@
+header {
+    background: #2d3855c7;
+  }
+  
+  .navbar-nav {
+    font-family: "Poppins", sans-serif;
+    font-weight: 600;
+    align-items: center;
+  }
+  
+  .navbar-nav .wu-btn {
+    margin: 0 10px;
+  }
+  .navlist .navLink{
+      color: white !important;
+      margin-left:3rem !important ;
+      text-decoration: none;
+      
+  }
+  .navlist .navLink:hover{
+    color: dodgerblue;
+  }
+  

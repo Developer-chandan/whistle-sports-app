@@ -1,0 +1,16 @@
+#welcome{
+    background: url('../../image/rugby.jpg');
+    width: 100%;
+    height: 715px;
+    background-size: cover;
+    background-position: unset;
+    background-repeat: no-repeat;
+    
+}
+.welcome-content.text-light {
+    padding: 14rem 3rem 4rem 3rem;
+}
+.welcome-content p{
+    font-size: 1.2rem;
+    font-weight: 400;
+}

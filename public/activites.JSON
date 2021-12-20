@@ -1,0 +1,90 @@
+[
+    {   "id": "1",
+        "image":"https://dtwhistledev.wpengine.com/wp-content/uploads/2015/12/c1.jpg",
+        "title": "WATER SURFING",
+        "tranning":"Adventurous Training",
+        "descp":"Swimming Practices & Exercise Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc eu felis ut nunc interdum cursus. Nunc fermentum nec turpis nec...",
+        "cetagory":"energy",
+        "Activity Goal": "Duration",
+        "price":"250"
+          
+    },{
+        "id": "2",
+        "image":"https://dtwhistledev.wpengine.com/wp-content/uploads/2015/12/c6.jpg",
+        "title": "SNOW SKATING",
+        "tranning":"Seasonal Coach",
+        "descp":"Exercise Swimming Practices &  Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc eu felis ut nunc interdum cursus. Nunc fermentum nec turpis nec...",
+        "cetagory":"adventure",
+        "Activity Goal": "Snow, Adventure",
+        "price":"220"
+    }   
+    ,{
+        "id": "3",
+        "image":"https://dtwhistledev.wpengine.com/wp-content/uploads/2015/12/c2.jpg",
+        "title": "For Kids & Adults",
+        "tranning":"Seasonal Coach",
+        "descp":"Practices Exercise Swimming &  Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc eu felis ut nunc interdum cursus. Nunc fermentum nec turpis nec...",
+        "cetagory":"moisture",
+        "Activity Goal": "Energy",
+        "price":"220"
+    }   
+    ,{
+        "id": "4",
+        "image":"https://dtwhistledev.wpengine.com/wp-content/uploads/2015/12/c4.jpg",
+        "title": "BASKET BALL",
+        "tranning":"Team Contribution",
+        "descp":"Exercise Swimming Practices &  Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc eu felis ut nunc interdum cursus. Nunc fermentum nec turpis nec...",
+        "cetagory":"team",
+        "Activity Goal": "Active, Tricks",
+        "price":"250"
+    }   
+    ,{
+        "id": "5",
+        "image":"https://dtwhistledev.wpengine.com/wp-content/uploads/2015/12/c5.jpg",
+        "title": "PARTICIPATION",
+        "tranning":"Under All Levels",
+        "descp":"Swimming Exercise Practices &  Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc eu felis ut nunc interdum cursus. Nunc fermentum nec turpis nec...",
+        "cetagory":"energy",
+        "Activity Goal": "Active",
+        "price":"230"
+    }   
+    ,{
+        "id": "6",
+        "image":"https://dtwhistledev.wpengine.com/wp-content/uploads/2015/12/c3.jpg",
+        "title": "TENNIS PRACTICE",
+        "tranning":"Reputed Training",
+        "descp":"Exercise Swimming Practices &  Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc eu felis ut nunc interdum cursus. Nunc fermentum nec turpis nec...",
+        "cetagory":"energy, team",
+        "Activity Goal": "Goal Points",
+        "price":"200"
+    }   
+    ,{
+        "id": "7",
+        "image":"https://dtwhistledev.wpengine.com/wp-content/uploads/2015/12/e1-448x303.jpg",
+        "title": "ICE SKATING",
+        "tranning":"Seasonal Coach",
+        "descp":"Exercise Swimming Practices &  Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc eu felis ut nunc interdum cursus. Nunc fermentum nec turpis nec...",
+        "cetagory":"team",
+        "Activity Goal": "Snow, Adventure",
+        "price":"250"
+    }   
+    ,{
+        "id": "8",
+        "image":"https://dtwhistledev.wpengine.com/wp-content/uploads/2015/12/e2-448x303.jpg",
+        "title": "GAMES WITH KIDS",
+        "tranning":"Seasonal Coach",
+        "descp":"Exercise Swimming Practices &  Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc eu felis ut nunc interdum cursus. Nunc fermentum nec turpis nec...",
+        "cetagory":"adventure",
+        "Activity Goal": "Snow, Adventure",
+        "price":"280"
+    } ,{
+        "id": "9",
+        "image":"https://dtwhistledev.wpengine.com/wp-content/uploads/2015/12/c2.jpg",
+        "title": "For Kids & Adults",
+        "tranning":"Seasonal Coach",
+        "descp":"Practices Exercise Swimming &  Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc eu felis ut nunc interdum cursus. Nunc fermentum nec turpis nec...",
+        "cetagory":"moisture",
+        "Activity Goal": "Energy",
+        "price":"220"
+    }
+]

@@ -1,0 +1,49 @@
+
+.sports-img-1 {
+    background:linear-gradient(#00000061,#00000069),linear-gradient(#0000006b,#0000006b),url('../../image/pic1.jpg') ;
+}
+.sports-img-2{
+    background:linear-gradient(#00000061,#00000069),linear-gradient(#0000006b,#0000006b), url('../../image/pic2.jpg');
+}
+.sports-img-3{
+    background:linear-gradient(#00000061,#00000069),linear-gradient(#0000006b,#0000006b), url('../../image/pic3.jpg');
+}
+.sports-img-4{
+    background:linear-gradient(#00000061,#00000069),linear-gradient(#0000006b,#0000006b), url('../../image/pic4.jpg');
+}
+.sports-img-5{
+    background:linear-gradient(#00000061,#00000069),linear-gradient(#0000006b,#0000006b), url('../../image/pic5.jpg');
+}
+.sports-img-6{
+    background:linear-gradient(#00000061,#00000069),linear-gradient(#0000006b,#0000006b), url('../../image/pic6.jpg');
+}
+
+.sports-img-1,
+.sports-img-2,
+.sports-img-3,
+.sports-img-4,
+.sports-img-5,
+.sports-img-6{
+    width: 100%;
+    height: 200px;
+    background-size: cover;
+    display: grid; 
+    place-items: center;
+}
+.sports-img-1 h2,
+.sports-img-2 h2,
+.sports-img-3 h2,
+.sports-img-4 h2,
+.sports-img-5 h2,
+.sports-img-6 h2{
+   color: white;
+   text-transform: uppercase;
+   font-size: 1.2rem;
+}
+section#sports {
+    margin-top: -4px;
+}
+.icons{
+    font-size: 4rem;
+    color: white;
+}
